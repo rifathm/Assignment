@@ -36,14 +36,17 @@ private String text;
 
 	public void addQuestion(CscExample qu)
 	{
+		//add question
 	}
 
 	public void removeQuestion(int quId)
 	{
+		//remove question
 	}
 	
 	public void editQuestion(int quId)
 	{
+		//edit question
 	}
 	
 
